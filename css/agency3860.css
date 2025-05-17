@@ -901,7 +901,7 @@ img.mfp-img {
     width: 100%;
     height: 100%;
     z-index: 10;
-    background: transparent url(https://ikiadam.com.tr/Error-404) center center no-repeat
+    background: transparent url(#) center center no-repeat
 }
 
 .popup-youtube .video-image img a:link {

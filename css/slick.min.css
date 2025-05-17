@@ -99,7 +99,7 @@
 @charset 'UTF-8';
 /* Slider */
 .slick-loading .slick-list {
-    background: #fff url('https://ikiadam.com.tr/Error-404') center center no-repeat;
+    background: #fff url('#') center center no-repeat;
 }
 
 /* Icons */
@@ -107,8 +107,8 @@
     font-family: 'slick';
     font-weight: normal;
     font-style: normal;
-    src: url('https://ikiadam.com.tr/Error-404');
-    src: url('https://ikiadam.com.tr/Error-404#iefix') format('embedded-opentype'), url('https://ikiadam.com.tr/Error-404') format('woff'), url('https://ikiadam.com.tr/Error-404') format('truetype'), url('https://ikiadam.com.tr/Error-404#slick') format('svg');
+    src: url('#');
+    src: url('##iefix') format('embedded-opentype'), url('#') format('woff'), url('#') format('truetype'), url('##slick') format('svg');
 }
 /* Arrows */
 .slick-prev,
