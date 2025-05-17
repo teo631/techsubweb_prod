@@ -1,8 +1,0 @@
-bak simdi
-bizim sildigmiz seyeler
-                                <div class="social-top">
-                                    <p><a href="https://www.facebook.com/2AdamSoftware"><i class="fa fa-facebook" aria-hidden="true"></i></a></p>
-                                </div>
-                                biz bunu sildigimiz icin senin class="fa fa-facebook" kısmını bulup silmen lazım 
-
-                                
